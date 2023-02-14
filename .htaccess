@@ -1,0 +1,10 @@
+RewriteEngine On 
+RewriteRule ^home?$ index.php
+RewriteRule ^Create_Invoice?$ create_invoice.php
+RewriteRule ^All_Order_Form?$ all_order_form.php
+RewriteRule ^Print_Invoice?$ print_invoice.php
+
+
+
+
+

@@ -1,0 +1,155 @@
+@media print {
+    /* @page {
+        size: A4;
+        margin: 0;
+    } */
+
+    /* html, body {
+      width: 210mm;
+      height: 297mm;        
+    } */
+    /* .main-page {
+        margin: 10px;
+        border: initial;
+        border-radius: initial;
+        width: initial;
+        min-height: initial;
+        box-shadow: initial;
+        background: initial;
+        page-break-after: always;
+    } */
+
+    img.logo2 {
+        width: 206px;
+    }
+
+    img.logofoot {
+        width: 100px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    table,
+    td,
+    th {
+        font-size: 14px;
+    }
+
+    .table2 {
+        border: 1px solid black;
+        border-radius: 20px;
+    }
+
+    i.bi {
+        margin: 0 7px 0 7px;
+        font-size: 14px;
+    }
+
+    /* @page { size: 21cm 29.7cm; margin: 2cm } */
+
+    ul {
+        list-style: none;
+        font-weight: 550;
+        font-size: 12px;
+    }
+
+    #print {
+        width: 3508;
+        height: 2480;
+        background-color: #fff;
+
+    }
+
+    .mar {
+        margin-top: 3px;
+    }
+
+.footer1{
+    width: 500px;
+}
+
+.footer2{
+    text-align: start;
+        }
+        
+
+}
+
+@media screen {
+    .footer1{
+        width: 500px;
+    }
+
+    .footer2{
+text-align: start;
+    }
+    
+    img.logo2 {
+        width: 166px;
+    }
+
+    img.logofoot {
+        width: 100px;
+    }
+
+    /* html, body {
+      width: 210mm;
+      height: 297mm;        
+    } */
+    /* .main-page {
+        margin: 10px;
+        border: initial;
+        border-radius: initial;
+        width: initial;
+        min-height: initial;
+        box-shadow: initial;
+        background: initial;
+        page-break-after: always;
+    } */
+
+    p {
+        font-size: 13px;
+    }
+
+    table,
+    td,
+    th {
+        font-size: 13px;
+    }
+
+    .table2 {
+        border: 1px solid black;
+        border-radius: 20px;
+    }
+
+    i.bi {
+        margin: 0 7px 0 7px;
+        font-size: 14px;
+    }
+
+    /* @page { size: 21cm 29.7cm; margin: 2cm } */
+
+    ul {
+        list-style: none;
+        font-weight: 550;
+        font-size: 12px;
+    }
+
+    #print {
+        width: 3508;
+        height: 2480;
+        background-color: #fff;
+
+    }
+
+    .mar {
+        margin-top: 3px;
+    }
+
+
+
+
+
+}
